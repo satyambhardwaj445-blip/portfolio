@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+ 
+<head> <link rel ="stylesheet" href =" style.css"> 
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+</head>
+<body>
+
+  <nav >
+  <a href="#about">About</a>
+  <a href="#skills">Skills</a>
+  <a href="#projects">Projects</a>
+  <a href="#contact">Contact</a>
+    <button id="themeToggle">🌙</button>
+</nav>
+
+  <h1>Hello, I'm Satyam 👋✌</h1>
+  <p>A beginner Web Developer</p>
+
+  <hr>
+
+  <h2>About Me</h2>
+  <p>
+    I am a student learning web development.
+    I love creating websites and learning new skills.
+  </p>
+
+  <h2>Skills</h2>
+  <ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>JavaScript (Learning)</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <h2>Projects</h2>
+
+<div class="projects">
+  <div class="card">
+    <h3>Portfolio Website</h3>
+    <p>My personal portfolio made using HTML and CSS.</p>
+  </div>
+
+  <div class="card">
+    <h3>Landing Page</h3>
+    <p>A simple landing page for practice.</p>
+  </div>
+
+  <div class="card">
+    <h3>JavaScript App</h3>
+    <p>Learning JavaScript by building small apps.</p>
+  </div>
+</div>
+
+
+  <h2>Contact</h2>
+  <p>Email: example@gmail.com</p>
+<h2 id="about">About Me</h2>
+
+<h2 id="skills">Skills</h2>
+
+<h2 id="projects">Projects</h2>
+
+<h2 id="contact">Contact</h2>
+  <footer>
+  <p>© 2026 Satyam | 
+    Multiplayer</p>
+</footer>
+ <script src="script.js"></script>
+</body>
+</html>
